@@ -1,0 +1,6 @@
+1;Anna;Kowalska;3A;Matematyka;87
+2;Piotr;Nowak;3A;Biologia;72
+3;Katarzyna;Kowalik;3B;Chemia;95
+4;Jan;Kowalski;3A;Fizyka;38
+5;Joanna;Kaczmarek;3B;Matematyka;78
+#Autor: Daniel Nêcka | Wersja A | 4 TP
